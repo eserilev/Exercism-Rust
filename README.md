@@ -1,0 +1,3 @@
+# Exercism - Rust
+
+Learning Rust!
